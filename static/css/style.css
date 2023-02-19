@@ -1,0 +1,6 @@
+#id_gender{
+    list-style-type: none;
+}
+#id_gender li{
+    display: inline;
+}
